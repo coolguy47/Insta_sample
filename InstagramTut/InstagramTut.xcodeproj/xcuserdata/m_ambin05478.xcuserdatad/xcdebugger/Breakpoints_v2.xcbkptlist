@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8A1DBFE5-06F3-48C6-A85E-FB7F528CAEBC"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EA22DC6D-F0C2-4125-B09F-2FE56679DD58"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstagramTut/Core/Upload_Post/UploadPostViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "uploadPost(caption:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EA22DC6D-F0C2-4125-B09F-2FE56679DD58 - 959bfbfef5a347ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for InstagramTut.UploadPostViewModel.uploadPost(caption: Swift.String) async throws -&gt; ()"
+                  moduleName = "InstagramTut"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/m_ambin05478/Documents/InstagramTut/InstagramTut/Core/Upload_Post/UploadPostViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "EA22DC6D-F0C2-4125-B09F-2FE56679DD58 - 829d7935f8a83a9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for InstagramTut.UploadPostViewModel.uploadPost(caption: Swift.String) async throws -&gt; ()"
+                  moduleName = "InstagramTut"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/m_ambin05478/Documents/InstagramTut/InstagramTut/Core/Upload_Post/UploadPostViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "192">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
